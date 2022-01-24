@@ -26,6 +26,6 @@ My jupyter notebook for Homework 4 is [here](https://github.com/BU-IE-582/fall21
 
 # [Term PROJECT](https://github.com/BU-IE-582/fall21-myildirim-boun/blob/main/project/)
 ## Report
-Our work about [Term Project](https://github.com/BU-IE-582/fall21-myildirim-boun/tree/main/project/) can be seen in [this pdf file](project/report.pdf).
+Our work about [Term Project](https://github.com/BU-IE-582/fall21-myildirim-boun/tree/main/project/) can be seen in [this pdf file](https://github.com/BU-IE-582/fall21-myildirim-boun/tree/main/project/report.pdf).
 ## Code
 Our jupyter notebooks for Project is [here](https://github.com/BU-IE-582/fall21-myildirim-boun/blob/main/project/). 
